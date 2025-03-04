@@ -12,4 +12,4 @@ O **aplicativo LeFlower** foi desenvolvido para oferecer uma experiência **prá
 </ul>  
 
 ## 📸 Interface do Aplicativo  
-<img src="https://github.com/crismoraiss/app_LeFlower/blob/master/app_home.png?raw=true" alt="Interface do Aplicativo LeFlower" width="800">
+<img src="https://github.com/crismoraiss/app_LeFlower/blob/master/app_home.png?raw=true" alt="Interface do Aplicativo LeFlower"  width="100%">
