@@ -8,7 +8,6 @@ O **aplicativo LeFlower** foi desenvolvido para oferecer uma experiência **prá
   <li><strong>🔑 Login Integrado:</strong> Com um único cadastro, os clientes podem acessar tanto o site quanto o aplicativo.</li><br>
   <li><strong>📅 Agendamento Rápido:</strong> Permite marcar serviços de forma simples e intuitiva.</li><br>
   <li><strong>📌 Histórico de Agendamentos:</strong> Os clientes podem visualizar e gerenciar seus serviços agendados.</li><br>  
-  <li><strong>📢 Notificações:</strong> Lembretes automáticos para evitar esquecimentos e otimizar a experiência do usuário.</li><br>  
 </ul>  
 
 ## 📸 Interface do Aplicativo  
